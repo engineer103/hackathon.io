@@ -6,7 +6,7 @@ gem 'rails'                   , '3.2.11'
 # views
 gem 'jquery-rails'            , '~> 2.2.1'
 gem 'haml-rails'              , '~> 0.4'
-gem 'redcarpet'               , '~> 2.2.2'
+gem 'redcarpet'               , '~> 3.5.1'
 gem 'simple_form'             , '~> 2.1.0'
 gem 'remotipart'              , '~> 1.0'
 gem 'will_paginate'           , '~> 3.0.4'

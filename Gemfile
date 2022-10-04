@@ -37,7 +37,7 @@ gem 'aws-sdk'                 , '~> 1.8.5'  , :require => "aws/s3"
 
 
 # API Clients
-gem 'rest-client'             , '~> 1.6.7'
+gem 'rest-client'             , '~> 1.8.0'
 gem 'eventbrite-client'       , '~> 0.1.4'
 gem 'km'                      , '~> 1.1.3'
 gem 'airbrake'                , '~> 3.1.9'
